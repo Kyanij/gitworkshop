@@ -2,4 +2,6 @@
 
 - Introduction to Git & Github
 - Version  Control System
+- Repository
+- Commit
 
